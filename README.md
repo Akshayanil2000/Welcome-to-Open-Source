@@ -5492,5 +5492,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://https://github.com/Akshayanil2000">
+                <img src="https://tse2.mm.bing.net/th/id/OIP.p3e5Y37IbeWX45Atdp_9_AHaE8?pid=Api&P=0&h=180" 
+                    width="100px;"
+                        alt="Akshay A A" />
+                    <br />
+                    <sub>
+                        <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
